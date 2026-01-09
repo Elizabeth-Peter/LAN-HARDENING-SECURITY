@@ -34,11 +34,11 @@ This repository serves as a practical showcase of DHCP Snooping implementation, 
 
 <p align="center">
 Network Diagram: <br/>
-<img src="https://imgur.com/U7HG1gy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/7rfJmtx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 IP Structure for the Network:  <br/>
-<img src="https://imgur.com/QDXrGOn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/0TcT8zP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Deploying the VMs:  <br/>
